@@ -45,5 +45,7 @@ int main()
         // type itr->first stores the key part  and 
         // itr->second stroes the value part 
         cout << itr->first << "  " << itr->second << endl; 
+        //one line
+        
      } 
 } 
